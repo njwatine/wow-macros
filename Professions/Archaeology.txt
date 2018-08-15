@@ -1,0 +1,6 @@
+# -----------------------------
+# |            Dig            |
+# -----------------------------
+
+#showtooltip
+/cast [mod:shift] Archaeology;Survey

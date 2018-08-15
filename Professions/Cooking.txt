@@ -1,0 +1,6 @@
+# ------------------------------
+# |            Fire            |
+# ------------------------------
+
+#showtooltip
+/cast [mod:shift] Cooking Fire;Cooking

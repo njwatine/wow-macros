@@ -1,0 +1,7 @@
+# -------------------------------------------
+# |            Engineering/Anvil            |
+# -------------------------------------------
+
+#showtooltip
+/cast [mod:shift] Thermal Anvil;Engineering
+

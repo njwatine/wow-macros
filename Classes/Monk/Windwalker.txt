@@ -1,0 +1,14 @@
+# ----------------------------------------
+# |            Touch of Death            |
+# ----------------------------------------
+
+#showtooltip
+/cast [mod:ctrl] Touch of Death; [mod:shift] Fist of the White Tiger; Tiger Palm
+
+
+# ------------------------------
+# |            Free            |
+# ------------------------------
+
+#showtooltip
+/cast [mod:ctrl] Tiger's Lust; [mod:shift] Provoke; Roll

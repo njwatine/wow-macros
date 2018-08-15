@@ -1,0 +1,6 @@
+# ------------------------------------
+# |            Spell Stop            |
+# ------------------------------------
+
+#showtooltip
+/cast [mod:shift] Spear Hand Strike; Blackout Strike

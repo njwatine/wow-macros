@@ -1,0 +1,15 @@
+# ------------------------------
+# |            Wolf            |
+# ------------------------------
+
+#showtooltip [nomod] Mount Up; Ghost Wolf;
+/cast [mod:ctrl] Darkwater Skate; [mod:shift] Ghost Wolf; 
+/run if SecureCmdOptionParse"[nomod]"then C_MountJournal.SummonByID(0)end
+
+
+# ------------------------------
+# |            Wolf 2            |
+# ------------------------------
+
+#showtooltip
+/cast [mod:ctrl] Darkwater Skate; [mod:shift] Ghost Wolf; Azure Water Strider

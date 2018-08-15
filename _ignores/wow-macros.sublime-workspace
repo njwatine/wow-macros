@@ -1,0 +1,673 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Volumes/WoW/WoW Macros/Classes/Paladin/Protection.txt",
+			"settings":
+			{
+				"buffer_size": 838,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 374.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"run",
+				"Run CSScomb"
+			],
+			[
+				"plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"upgra",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"upg",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"theme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Install Package Control"
+			]
+		],
+		"width": 474.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Volumes/WoW/WoW Macros",
+		"/Volumes/WoW/WoW Macros/Classes",
+		"/Volumes/WoW/WoW Macros/Classes/Hunter",
+		"/Volumes/WoW/WoW Macros/Classes/Monk",
+		"/Volumes/WoW/WoW Macros/Classes/Paladin"
+	],
+	"file_history":
+	[
+		"/Volumes/WoW/WoW Macros/General Macros.txt",
+		"/Volumes/WoW/WoW Macros/Classes/Monk/Brewmaster.txt",
+		"/Volumes/WoW/WoW Macros/Classes/Hunter/Beasty Mastery.txt",
+		"/Volumes/WoW/WoW Macros/Classes/Monk/Windwalker.txt",
+		"/Volumes/WoW/WoW Macros/.gitignore",
+		"/Users/nico/SNC Projects/Houston Interior Plants/Site Folder/houstoninteriorplants.com/houston-interior-plants/product-descriptions/bird-of-paradise-large.html",
+		"/Users/nico/SNC Projects/Houston Interior Plants/Site Folder/houstoninteriorplants.com/houston-interior-plants/product-descriptions/fiddle-leaf-fig-tree.html",
+		"/Users/nico/SNC Projects/Houston Interior Plants/Site Folder/houstoninteriorplants.com/houston-interior-plants/Layouts/category/shop-for-plants/shop-for-plants.html",
+		"/Users/nico/SNC Projects/Houston Interior Plants/Site Folder/houstoninteriorplants.com/houston-interior-plants/scss/pages/product/_product.scss",
+		"/Users/nico/SNC Projects/Houston Interior Plants/Site Folder/houstoninteriorplants.com/houston-interior-plants/css/custom.css",
+		"/Users/nico/SNC Projects/Houston Interior Plants/Site Folder/houstoninteriorplants.com/houston-interior-plants/storefront-content/blog-posts/how-do-i-choose-the-right-pot.html",
+		"/Users/nico/Desktop/hip-idea.txt",
+		"/Users/nico/SNC Projects/Houston Interior Plants/Site Folder/houstoninteriorplants.com/houston-interior-plants/Panels/custom-sidebar.html",
+		"/Users/nico/SNC Projects/Houston Interior Plants/Site Folder/houstoninteriorplants.com/houston-interior-plants/Panels/Header.html",
+		"/Users/nico/SNC Projects/Houston Interior Plants/Site Folder/houstoninteriorplants.com/houston-interior-plants/Layouts/index/default.html",
+		"/Users/nico/SNC Projects/Houston Interior Plants/Site Folder/houstoninteriorplants.com/houston-interior-plants/scss/_settings.scss",
+		"/Users/nico/SNC Projects/Houston Interior Plants/Site Folder/houstoninteriorplants.com/houston-interior-plants/scss/pages/index/_index.scss",
+		"/Users/nico/Library/Mobile Documents/com~apple~CloudDocs/Automator+/Toggling File Extensions.sh",
+		"/Users/nico/SNC Projects/Houston Interior Plants/Site Folder/houstoninteriorplants.com/houston-interior-plants/README.md",
+		"/Users/nico/SNC Projects/Houston Interior Plants/Site Folder/houstoninteriorplants.com/houston-interior-plants/scss/components/_buttons.scss",
+		"/Users/nico/SNC Projects/Houston Interior Plants/Site Folder/houstoninteriorplants.com/houston-interior-plants/scss/custom.scss",
+		"/Users/nico/SNC Projects/Houston Interior Plants/Site Folder/houstoninteriorplants.com/houston-interior-plants/.gitignore",
+		"/Users/nico/Graphic Design/_GraphicDesign_sansBB/_SKETCH : PSD : HTML/Sketch/_Sort/IBM/sketch-palettes-plugin/README.md",
+		"/Users/nico/Desktop/alfred.txt",
+		"/Users/nico/SNC Projects/Houston Interior Plants/Site Folder/houstoninteriorplants.com/houston-interior-plants/scss/pages/blog/_article.scss",
+		"/Users/nico/SNC Projects/Houston Interior Plants/Site Folder/houstoninteriorplants.com/houston-interior-plants/bower.json",
+		"/Users/nico/SNC Projects/Houston Interior Plants/Site Folder/houstoninteriorplants.com/houston-interior-plants/webdav-clone/template/Styles/custom.css",
+		"/Users/nico/SNC Projects/Houston Interior Plants/Site Folder/houstoninteriorplants.com/houston-interior-plants/webdav-clone/template/category.html",
+		"/Users/nico/SNC Projects/Houston Interior Plants/Site Folder/houstoninteriorplants.com/houston-interior-plants/WebDAV/template/category.html",
+		"/Users/nico/Desktop/notes.txt",
+		"/Users/nico/Desktop/antoine.txt",
+		"/Users/nico/SNC Projects/Houston Interior Plants/Site Folder/houstoninteriorplants.com/houston-interior-plants/WebDAV/template/default.html",
+		"/Users/nico/SNC Projects/Houston Interior Plants/Site Folder/houstoninteriorplants.com/houston-interior-plants/WebDAV/template/Panels/custom-sidebar.html",
+		"/Users/nico/Library/Mobile Documents/com~apple~CloudDocs/WOW/Macros/Toons/Vyvanser.txt",
+		"/Users/nico/Downloads/shared-text-styles-master/appcast.xml",
+		"/Users/nico/Downloads/shared-text-styles-master/README.md",
+		"/Users/nico/Library/Mobile Documents/com~apple~CloudDocs/WOW/Macros/Professions/Archaeology.txt",
+		"/Users/nico/Library/Mobile Documents/com~apple~CloudDocs/WOW/Macros/Professions/Cooking.txt",
+		"/Users/nico/Library/Mobile Documents/com~apple~CloudDocs/WOW/Macros/Professions/Engineering.txt",
+		"/Users/nico/Library/Mobile Documents/com~apple~CloudDocs/WOW/Macros/Hunter/Beasty Mastery Macros.txt",
+		"/Users/nico/Library/Mobile Documents/com~apple~CloudDocs/WOW/Macros/General Macros.txt",
+		"/Users/nico/Desktop/Tacupra IG Logos/2jz_instagram(600x109).svg",
+		"/Users/nico/Library/Mobile Documents/com~apple~CloudDocs/Alfred 3/Customizations/Web Searches/alfred-custom-web-searches.txt.txt",
+		"/Users/nico/Library/Application Support/com.bohemiancoding.sketch3/artboards.plist",
+		"/Users/nico/Desktop/artboards-stock.plist",
+		"/Users/nico/Desktop/artboards-custom.plist",
+		"/Users/nico/Desktop/artboards.plist",
+		"/Users/nico/SNC Projects/Project Boilerplates/zurb-f6-boilerplate/src/pages/index.php",
+		"/Users/nico/SNC Projects/Project Boilerplates/zurb-f6-boilerplate/package.json",
+		"/Users/nico/SNC Projects/Project Boilerplates/zurb-f6-boilerplate/bower.json",
+		"/Users/nico/SNC Projects/Project Boilerplates/zurb-f6-boilerplate/scss/app.scss",
+		"/Users/nico/SNC Projects/Project Boilerplates/zurb-f6-boilerplate/scss/components/_extras.scss",
+		"/Users/nico/SNC Projects/Project Boilerplates/zurb-f6-boilerplate/scss/_settings.scss",
+		"/Users/nico/SNC Projects/Project Boilerplates/zurb-f6-boilerplate/scss/components/_metrics.scss",
+		"/Users/nico/SNC Projects/Project Boilerplates/zurb-f6-boilerplate/scss/components/_resets.scss",
+		"/Users/nico/SNC Projects/Project Boilerplates/zurb-f6-boilerplate/README.md",
+		"/Users/nico/SNC Projects/Project Boilerplates/zurb-f6-boilerplate/.gitignore",
+		"/Users/nico/SNC Projects/Project Boilerplates/zurb-f6-boilerplate/gulpfile.babel.js",
+		"/Users/nico/Desktop/temp/clone-setup-guide.txt",
+		"/Users/nico/SNC Projects/Project Boilerplates/zurb-f6-boilerplate/_ignores/temp/_notes.txt",
+		"/Users/nico/SNC Projects/Project Boilerplates/zurb-f6-boilerplate/assets/.htaccess",
+		"/Users/nico/SNC Projects/Project Boilerplates/zurb-f6-boilerplate/bower_components/foundation-sites/scss/foundation.scss",
+		"/Users/nico/SNC Projects/Project Boilerplates/zurb-f6-boilerplate/bower_components/foundation-sites/_vendor/normalize-scss/sass/_normalize.scss",
+		"/Users/nico/SNC Projects/Project Boilerplates/zurb-f6-boilerplate/src/layouts/default.html",
+		"/Users/nico/SNC Projects/Project Boilerplates/zurb-f6-boilerplate/src/layouts-production/default.html",
+		"/Users/nico/Library/Application Support/Sublime Text 3/Packages/CSScomb/CSScomb.sublime-settings",
+		"/Users/nico/SNC Projects/Zaraza Design/Site Folder/zarazadesign.com/zaraza-design/contact.html",
+		"/Users/nico/SNC Projects/Zaraza Design/Site Folder/zarazadesign.com/zaraza-design/index.html"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Volumes/WoW/WoW Macros/Classes/Paladin/Protection.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 838,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								838,
+								838
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"file": "/Volumes/WoW/WoW Macros/Classes/Paladin/Protection Action Bars.png",
+					"semi_transient": true,
+					"stack_index": 1,
+					"type": "image"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "wow-macros.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"gen",
+				"General Macros.txt"
+			],
+			[
+				"fidd",
+				"product-descriptions/fiddle-leaf-fig-tree.html"
+			],
+			[
+				"fiddle",
+				"product-descriptions/fiddle-leaf-fig-tree.html"
+			],
+			[
+				"rightpot",
+				"storefront-content/blog-posts/how-do-i-choose-the-right-pot.html"
+			],
+			[
+				"cust",
+				"css/custom.css"
+			],
+			[
+				"sett",
+				"scss/_settings.scss"
+			],
+			[
+				"def",
+				"Layouts/index/default.html"
+			],
+			[
+				"read",
+				"README.md"
+			],
+			[
+				"gitig",
+				".gitignore"
+			],
+			[
+				"customcss",
+				"css/custom.css"
+			],
+			[
+				"vyv",
+				"Toons/Vyvanser.txt"
+			],
+			[
+				"set",
+				"scss/_settings.scss"
+			],
+			[
+				"distinde",
+				"dist/index.php"
+			],
+			[
+				"srcinde",
+				"src/pages/index.php"
+			],
+			[
+				"cus",
+				"scss/settings/_custom-settings.scss"
+			],
+			[
+				"bower",
+				"bower.json"
+			],
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"extras",
+				"scss/components/_extras.scss"
+			],
+			[
+				"metric",
+				"scss/components/_metrics.scss"
+			],
+			[
+				"metri",
+				"scss/components/_metrics.scss"
+			],
+			[
+				"apps",
+				"scss/app.scss"
+			],
+			[
+				"settin",
+				"scss/_settings.scss"
+			],
+			[
+				"gulp",
+				"gulpfile.babel.js"
+			],
+			[
+				"asshta",
+				"assets/.htaccess"
+			],
+			[
+				"vendornorma",
+				"bower_components/foundation-sites/_vendor/normalize-scss/sass/_normalize.scss"
+			],
+			[
+				"foundscs",
+				"bower_components/foundation-sites/scss/foundation.scss"
+			],
+			[
+				"proddef",
+				"src/layouts-production/default.html"
+			],
+			[
+				"defht",
+				"src/layouts/default.html"
+			],
+			[
+				"appscss",
+				"scss/app.scss"
+			],
+			[
+				"index",
+				"dist/index.php"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"conta",
+				"contact.html"
+			],
+			[
+				"in",
+				"index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "ta",
+		"selected_items":
+		[
+			[
+				"ta",
+				"~/SNC Projects/TanSpire/Site Folder/tanspire.com/tanspire/_ignores/tanspire.sublime-project"
+			],
+			[
+				"nic",
+				"~/SNC Projects/nicowatine.me/Site Folder/nicowatine.me/nico-watine/_ignores/nico-watine.sublime-project"
+			],
+			[
+				"fou",
+				"~/SNC Projects/Project Boilerplates/foundation-6-components/_ignores/foundation-6-components.sublime-project"
+			],
+			[
+				"wow",
+				"/Volumes/WoW/wow.local/_ignores/_ignores/wow-repo.sublime-project"
+			],
+			[
+				"elas",
+				"~/SNC Projects/Élastique Athletics/Site Folder/elastiqueathletics.com/elastique-athletics/_ignores/elastique-athletics.sublime-project"
+			],
+			[
+				"jar",
+				"~/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/jardin-de-france/_ignores/jardin-de-france.sublime-project"
+			],
+			[
+				"wowr",
+				"/Volumes/WoW/wow.local/_ignores/_ignores/wow-repo.sublime-project"
+			],
+			[
+				"sub",
+				"~/Library/Application Support/Sublime Text 3/Packages/User/Snippets/_ignores/sublime-text-snippets.sublime-project"
+			],
+			[
+				"stu",
+				"~/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/studio-n-creations/_ignores/studio-n-creations.sublime-project"
+			],
+			[
+				"z",
+				"~/SNC Projects/Project Boilerplates/zurb-f6-boilerplate/_ignores/zurb-f6-boilerplate.sublime-project"
+			],
+			[
+				"pal",
+				"~/SNC Projects/Houston PALS/Site Folder/houstonpals.com/houston-pals/_ignores/houston-pals.sublime-project"
+			],
+			[
+				"tacu",
+				"~/SNC Projects/Tacupra/Site Folder/tacupra.com/tacupra/_ignores/tacupra.sublime-project"
+			],
+			[
+				"lis",
+				"~/SNC Projects/Lisa Esposito/Site Folder/lisaesposito.com/lisa-esposito/_ignores/lisa-esposito.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 223.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

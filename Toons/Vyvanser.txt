@@ -1,0 +1,33 @@
+# ------------------------------
+# |            Fall 1            |
+# ------------------------------
+
+#showtooltip [nomod] Mount Up; Imbued Silkweave Flourish of the Peerless
+/cast [mod:shift] Imbued Silkweave Flourish of the Peerless;
+/run if SecureCmdOptionParse"[nomod]"then C_MountJournal.SummonByID(0)end
+
+
+# --------------------------------
+# |            Fall 2            |
+# --------------------------------
+
+#showtooltip [nomod] Mount Up; Seacursed Wrap
+/cast [mod:shift] Seacursed Wrap;
+/run if SecureCmdOptionParse"[nomod]"then C_MountJournal.SummonByID(0)end
+
+
+# ------------------------------
+# |            Belt            |
+# ------------------------------
+
+#showtooltip
+/cast [mod:shift] Wildguard Studded Belt; Kill Command
+
+
+
+# -----------------------------
+# |            Run            |
+# -----------------------------
+
+#showtooltip
+/cast [mod:shift] Wildguard Studded Belt; Aspect of the Cheetah

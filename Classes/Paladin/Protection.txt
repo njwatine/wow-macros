@@ -1,0 +1,41 @@
+# ------------------------------
+# |            Area            |
+# ------------------------------
+
+#showtooltip
+/cast [mod:shift] Consecration;Hammer of the Righteous
+
+
+# ------------------------------
+# |            Heal            |
+# ------------------------------
+
+#showtooltip
+/cast [mod:shift] Light of the Protector;Avenger's Shield
+
+
+
+# -------------------------------
+# |            Judge            |
+# -------------------------------
+
+#showtooltip
+/cast [mod:shift] Judgment;Shield of the Righteous
+
+
+
+# ------------------------------
+# |            Stun            |
+# ------------------------------
+
+#showtooltip
+/cast [mod:shift] Hammer of Justice;Rebuke
+
+
+
+# -------------------------------
+# |            Taunt            |
+# -------------------------------
+
+#showtooltip
+/cast [mod:shift] Hand of Reckoning;Divine Steed

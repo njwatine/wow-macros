@@ -1,0 +1,14 @@
+# -----------------------------------------------------
+# |            Bestial Wrath / Barbed Shot            |
+# -----------------------------------------------------
+
+#showtooltip
+/cast [mod:shift] Bestial Wrath;Barbed Shot
+
+
+# ----------------------------------------------
+# |            Chimaera/Cobra/Multi            |
+# ----------------------------------------------
+
+#showtooltip
+/cast [mod:ctrl] X; [mod:shift] X; X

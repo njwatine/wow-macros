@@ -1,0 +1,81 @@
+# -------------------------------------------
+# |            Macro Mod Snippet            |
+# -------------------------------------------
+
+#showtooltip
+/cast [mod:shift] 
+
+#showtooltip
+/cast [mod:ctrl] X; [mod:shift] X; X
+
+# ------------------------------
+# |            Hats            |
+# ------------------------------
+
+#showtooltip
+/cast [mod:shift] Chef's Hat;Safari Hat
+
+
+# -------------------------------
+# |            Water            |
+# -------------------------------
+
+#showtooltip
+/cast [mod:shift] Darkwater Skate;Azure Water Strider
+
+
+# -------------------------------
+# |            Stone            |
+# -------------------------------
+
+#showtooltip
+/cast [mod:shift] Garrison Hearthstone;Hearthstone
+
+
+# ------------------------------
+# |            Pets            |
+# ------------------------------
+
+#showtooltip
+/cast [mod:shift] Battle Pet Bandage;Revive Battle Pets(Battle Pets)
+
+
+# ------------------------------------
+# |            Pet Stones            |
+# ------------------------------------
+
+#showtooltip
+/cast [mod:shift] Marked Flawless Battle-Stone;Flawless Battle-Training Stone
+
+
+# ----------------------------------
+# |            Garrison            |
+# ----------------------------------
+
+/run ShowGarrisonLandingPage(2)
+
+
+
+# ------------------------------------
+# |            Class Hall            |
+# ------------------------------------
+
+/run ShowGarrisonLandingPage(3)
+
+
+# ---------------------------------
+# |            Cooking            |
+# ---------------------------------
+
+#showtooltip
+/cast [mod:shift] Cooking Fire;Cooking
+
+
+
+# ---------------------------------------------
+# |            Order Hall/Garrison            |
+# ---------------------------------------------
+
+/run if SecureCmdOptionParse"[mod:shift]"then ShowGarrisonLandingPage(2) else ShowGarrisonLandingPage(3)end
+
+
