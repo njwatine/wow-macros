@@ -21,4 +21,4 @@
 # -----------------------------
 
 #showtooltip
-/cast [mod:shift] Wildguard Studded Belt; Aspect of the Cheetah
+/cast [mod:shift] Death-Pledged Links; Aspect of the Cheetah
