@@ -1,18 +1,9 @@
 # ------------------------------
-# |            Fall 1            |
+# |            Fall            |
 # ------------------------------
 
-#showtooltip [nomod] Mount Up; Imbued Silkweave Flourish of the Peerless
-/cast [mod:shift] Imbued Silkweave Flourish of the Peerless;
-/run if SecureCmdOptionParse"[nomod]"then C_MountJournal.SummonByID(0)end
-
-
-# --------------------------------
-# |            Fall 2            |
-# --------------------------------
-
-#showtooltip [nomod] Mount Up; Seacursed Wrap
-/cast [mod:shift] Seacursed Wrap;
+#showtooltip [nomod] Mount Up; Fen Summoner's Cloak
+/cast [mod:shift] Fen Summoner's Cloak;
 /run if SecureCmdOptionParse"[nomod]"then C_MountJournal.SummonByID(0)end
 
 
