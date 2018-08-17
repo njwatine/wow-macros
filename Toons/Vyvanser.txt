@@ -8,11 +8,11 @@
 
 
 # ------------------------------
-# |            Belt            |
+# |            Kill            |
 # ------------------------------
 
 #showtooltip
-/cast [mod:shift] Wildguard Studded Belt; Kill Command
+/cast [mod:shift] Death-Pledged Links; Kill Command
 
 
 
