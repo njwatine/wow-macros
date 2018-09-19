@@ -12,3 +12,11 @@
 
 #showtooltip
 /cast [mod:ctrl] Tiger's Lust; [mod:shift] Provoke; Roll
+
+
+# ------------------------------
+# |            Heal            |
+# ------------------------------
+
+#showtooltip
+/cast [mod:ctrl] Vivify; [mod:shift] Touch of Karma; Storm, Earth, and Fire
