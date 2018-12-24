@@ -6,9 +6,47 @@
 /cast [mod:shift] Bestial Wrath;Barbed Shot
 
 
-# ----------------------------------------------
-# |            Chimaera/Cobra/Multi            |
-# ----------------------------------------------
+
+# ----------------------------------------------------
+# |            Chimaera/Cobra/Multi  (Base)          |
+# ----------------------------------------------------
 
 #showtooltip
-/cast [mod:ctrl] X; [mod:shift] X; X
+/cast [mod:ctrl] Multi-Shot; [mod:shift] Cobra Shot; Chimaera Shot
+
+
+
+# -----------------------------------
+# |            Jump Back            |
+# -----------------------------------
+
+#showtooltip
+/cast [mod:shift] Disengage;Concussive Shot
+
+
+
+# ------------------------------
+# |            Crit            |
+# ------------------------------
+
+#showtooltip
+/cast [mod:shift] Aspect of the Wild;Mend Pet
+
+
+
+# ------------------------------
+# |            Heal            |
+# ------------------------------
+
+#showtooltip
+/cast [mod:shift] Exhilaration;Counter Shot
+
+
+
+# -------------------------------------
+# |            Cheetah Run            |
+# -------------------------------------
+
+#showtooltip
+/cast [mod:shift] Aspect of the Cheetah;Intimidation
+
