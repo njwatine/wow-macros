@@ -2,8 +2,8 @@
 # |            Fall            |
 # ------------------------------
 
-#showtooltip [nomod] Mount Up; Fen Summoner's Cloak
-/cast [mod:shift] Fen Summoner's Cloak;
+#showtooltip [nomod] Mount Up; Bloody Warmother's Greatcloak
+/cast [mod:shift] Bloody Warmother's Greatcloak;
 /run if SecureCmdOptionParse"[nomod]"then C_MountJournal.SummonByID(0)end
 
 
