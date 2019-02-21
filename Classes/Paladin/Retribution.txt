@@ -1,0 +1,30 @@
+# -----------------------------------
+# |            Judgement            |
+# -----------------------------------
+
+#showtooltip
+/cast [mod:shift] Judgment; Blade of Justice
+
+
+# ------------------------------
+# |            Heal            |
+# ------------------------------
+
+#showtooltip
+/cast [mod:shift] Flash of Light; Templar's Verdict
+
+
+# -------------------------------
+# |            Taunt            |
+# -------------------------------
+
+#showtooltip
+/cast [mod:shift] Hand of Reckoning; Divine Steed
+
+
+# -------------------------------
+# |            Spell            |
+# -------------------------------
+
+#showtooltip
+/cast [mod:shift] Hammer of Justice; Rebuke

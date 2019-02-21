@@ -13,7 +13,10 @@
 #showtooltip
 /cast [mod:shift] Light of the Protector;Avenger's Shield
 
+ALT
 
+#showtooltip
+/cast [mod:shift] Flash of Light;Avenger's Shield
 
 # -------------------------------
 # |            Judge            |

@@ -50,3 +50,19 @@
 #showtooltip
 /cast [mod:shift] Aspect of the Cheetah;Intimidation
 
+
+# -----------------------------------
+# |            Run (alt)            |
+# -----------------------------------
+
+#showtooltip
+/cast [mod:shift] Aspect of the Cheetah;Kill Command
+
+
+
+# ------------------------------------
+# |            Intimidate            |
+# ------------------------------------
+
+#showtooltip
+/cast [mod:shift] Intimidation;Barrage
