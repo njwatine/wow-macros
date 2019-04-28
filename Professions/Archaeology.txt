@@ -4,3 +4,14 @@
 
 #showtooltip
 /cast [mod:shift] Archaeology;Survey
+
+
+
+
+# ---------------------------------
+# |            Fly/Dig            |
+# ---------------------------------
+
+#showtooltip [nomod] Mount Up; Survey
+/cast [mod:shift] Survey;
+/run if SecureCmdOptionParse"[nomod]"then C_MountJournal.SummonByID(0)end

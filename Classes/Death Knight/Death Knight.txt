@@ -1,0 +1,6 @@
+# -------------------------------
+# |            Taunt            |
+# -------------------------------
+
+#showtooltip
+/cast [mod:shift] Dark Command;Death Grip
