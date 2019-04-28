@@ -2,8 +2,8 @@
 # |            Fall            |
 # ------------------------------
 
-#showtooltip [nomod] Mount Up; Bloody Warmother's Greatcloak
-/cast [mod:shift] Bloody Warmother's Greatcloak;
+#showtooltip [nomod] Mount Up; Drape of Valiant Defense
+/cast [mod:shift] Drape of Valiant Defense;
 /run if SecureCmdOptionParse"[nomod]"then C_MountJournal.SummonByID(0)end
 
 
