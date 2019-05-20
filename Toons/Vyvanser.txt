@@ -12,7 +12,7 @@
 # ------------------------------
 
 #showtooltip
-/cast [mod:shift] Torcalin Waistwrap; Kill Command
+/cast [mod:shift] Pa'ku Windrider Girdle; Kill Command
 
 
 
@@ -21,4 +21,4 @@
 # -----------------------------
 
 #showtooltip
-/cast [mod:shift] Torcalin Waistwrap; Aspect of the Cheetah
+/cast [mod:shift] Pa'ku Windrider Girdle; Aspect of the Cheetah
