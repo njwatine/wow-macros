@@ -12,7 +12,7 @@
 # ------------------------------
 
 #showtooltip
-/cast [mod:shift] Pa'ku Windrider Girdle; Kill Command
+/cast [mod:shift] Honorbound Vanguard's Clasp; Kill Command
 
 
 
@@ -21,4 +21,4 @@
 # -----------------------------
 
 #showtooltip
-/cast [mod:shift] Pa'ku Windrider Girdle; Aspect of the Cheetah
+/cast [mod:shift] Honorbound Vanguard's Clasp; Aspect of the Cheetah
