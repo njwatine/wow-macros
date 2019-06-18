@@ -79,3 +79,11 @@
 /run if SecureCmdOptionParse"[mod:shift]"then ShowGarrisonLandingPage(2) else ShowGarrisonLandingPage(3)end
 
 
+
+# --------------------------------------------------------------
+# |            Merchant Purchase w/out Confirmation            |
+# --------------------------------------------------------------
+
+/run BuyMerchantItem(X)
+
+
