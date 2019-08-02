@@ -6,6 +6,13 @@
 /cast [mod:shift] Drape of Valiant Defense; [mod:ctrl] Concentrated Flame;
 /run if SecureCmdOptionParse"[nomod]"then C_MountJournal.SummonByID(0)end
 
+# -------------------------------------------
+# |            vLow Fall / Heart            |
+# -------------------------------------------
+
+#showtooltip [nomod] Mount Up; [mod:shift] Skullcracker Cloak; [mod:ctrl] Concentrated Flame;
+/cast [mod:shift] Skullcracker Cloak; [mod:ctrl] Concentrated Flame;
+/run if SecureCmdOptionParse"[nomod]"then C_MountJournal.SummonByID(0)end
 
 # ------------------------------
 # |            Kill            |
