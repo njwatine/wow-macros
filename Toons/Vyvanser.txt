@@ -1,9 +1,9 @@
-# ------------------------------
-# |            Fall            |
-# ------------------------------
+# ------------------------------------
+# |            Fall/Heart            |
+# ------------------------------------
 
-#showtooltip [nomod] Mount Up; Drape of Valiant Defense
-/cast [mod:shift] Drape of Valiant Defense;
+#showtooltip [nomod] Mount Up; [mod:shift] Drape of Valiant Defense; [mod:ctrl] Concentrated Flame;
+/cast [mod:shift] Drape of Valiant Defense; [mod:ctrl] Concentrated Flame;
 /run if SecureCmdOptionParse"[nomod]"then C_MountJournal.SummonByID(0)end
 
 
