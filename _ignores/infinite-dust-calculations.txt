@@ -1,0 +1,16 @@
+frostwoven belt
+3 bolts frostweave
+=
+15 frostweave cloth
+=
+15g
++ 3g (1x eternium thread)
+=
+18g = frostwoven belt
+
+
+45xfrostwoven belt = 810g
+
+12xFB = 216g 
+
+216g/19id = 11g/1id
