@@ -87,3 +87,11 @@
 /run BuyMerchantItem(X)
 
 
+# --------------------------------------------
+# |            Heart of A / Mount            |
+# --------------------------------------------
+
+#showtooltip [nomod] Mount Up; [mod:shift] Concentrated Flame;
+/cast [mod:shift] Concentrated Flame;
+/run if SecureCmdOptionParse"[nomod]"then C_MountJournal.SummonByID(0)end
+

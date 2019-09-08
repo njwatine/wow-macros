@@ -15,3 +15,7 @@
 #showtooltip [nomod] Mount Up; Survey
 /cast [mod:shift] Survey;
 /run if SecureCmdOptionParse"[nomod]"then C_MountJournal.SummonByID(0)end
+
+#showtooltip [nomod] Mount Up; Concentrated Flame
+/cast [mod:shift] Concentrated Flame;
+/run if SecureCmdOptionParse"[nomod]"then C_MountJournal.SummonByID(0)end

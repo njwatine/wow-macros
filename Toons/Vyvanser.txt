@@ -6,26 +6,29 @@
 /cast [mod:shift] Drape of Valiant Defense; [mod:ctrl] Concentrated Flame;
 /run if SecureCmdOptionParse"[nomod]"then C_MountJournal.SummonByID(0)end
 
+
 # -------------------------------------------
 # |            vLow Fall / Heart            |
 # -------------------------------------------
 
-#showtooltip [nomod] Mount Up; [mod:shift] Skullcracker Cloak; [mod:ctrl] Concentrated Flame;
-/cast [mod:shift] Skullcracker Cloak; [mod:ctrl] Concentrated Flame;
+#showtooltip [nomod]Mount Up;[mod:shift]Inherited Cape of the Black Baron;[mod:ctrl]Concentrated Flame;
+/cast [mod:shift]Inherited Cape of the Black Baron;[mod:ctrl]Concentrated Flame;
 /run if SecureCmdOptionParse"[nomod]"then C_MountJournal.SummonByID(0)end
 
-# ------------------------------
-# |            Kill            |
-# ------------------------------
+
+
+# -----------------------------------
+# |            Kill/Belt            |
+# -----------------------------------
 
 #showtooltip
-/cast [mod:shift] Bilewing Belt; Kill Command
+/cast [mod:shift] 6; Kill Command
 
 
 
-# -----------------------------
-# |            Run            |
-# -----------------------------
+# ----------------------------------
+# |            Run/Belt            |
+# ----------------------------------
 
 #showtooltip
-/cast [mod:shift] Bilewing Belt; Aspect of the Cheetah
+/cast [mod:shift] 6; Aspect of the Cheetah
