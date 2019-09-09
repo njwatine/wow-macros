@@ -3,7 +3,7 @@
 # ------------------------------------
 
 #showtooltip [nomod] Mount Up; [mod:shift] 15; [mod:ctrl] Concentrated Flame;
-/cast [mod:shift] 6; [mod:ctrl] Concentrated Flame;
+/cast [mod:shift] 15; [mod:ctrl] Concentrated Flame;
 /run if SecureCmdOptionParse"[nomod]"then C_MountJournal.SummonByID(0)end
 
 
