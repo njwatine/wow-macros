@@ -23,3 +23,13 @@
 
 #showtooltip
 /cast [mod:shift] 6; Aspect of the Cheetah
+
+
+
+# --------------------------------------
+# |            Fishing Gear            |
+# --------------------------------------
+
+/equipset Fish
+#showtooltip
+/castsequence Oversized Bobber, Bright Baubles
