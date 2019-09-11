@@ -32,4 +32,4 @@
 
 /equipset Fish
 #showtooltip
-/castsequence reset=30 Oversized Bobber, Bright Baubles
+/castsequence reset=30 Oversized Bobber, 1
