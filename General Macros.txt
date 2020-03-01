@@ -95,3 +95,9 @@
 /cast [mod:shift] Concentrated Flame;
 /run if SecureCmdOptionParse"[nomod]"then C_MountJournal.SummonByID(0)end
 
+
+
+# ---------------------------------------
+# |            Fly/Trap/Wolf            |
+# ---------------------------------------
+

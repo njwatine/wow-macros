@@ -33,3 +33,13 @@
 /equipset Fish
 #showtooltip
 /castsequence reset=30 1, Oversized Bobber
+
+
+
+# ------------------------------------------------------
+# |            Max Gear / Underlight Angler            |
+# ------------------------------------------------------
+#showtooltip
+/equipset [mod:shift] Swim; Max
+
+
