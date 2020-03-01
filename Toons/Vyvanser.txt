@@ -43,3 +43,12 @@
 /equipset [mod:shift] Swim; Max
 
 
+
+# -----------------------------------------
+# |            Speed / Dungeon            |
+# -----------------------------------------
+
+#showtooltip
+/equipset [mod:shift] Dungeon; Speed
+
+
