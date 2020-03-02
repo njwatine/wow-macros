@@ -2,8 +2,8 @@
 # |            Fall/Heart            |
 # ------------------------------------
 
-#showtooltip [nomod] Mount Up; [mod:shift] 15; [mod:ctrl] Concentrated Flame;
-/cast [mod:shift] 15; [mod:ctrl] Concentrated Flame;
+#showtooltip [nomod] Mount Up; [mod:shift] 15; [mod:ctrl] Concentrated Flame; [mod:alt] Fetch;
+/cast [mod:shift] 15; [mod:ctrl] Concentrated Flame; [mod:alt] Fetch;
 /run if SecureCmdOptionParse"[nomod]"then C_MountJournal.SummonByID(0)end
 
 
