@@ -1,0 +1,3 @@
+#Default - Set Normal Price
+
+max(2*avg(crafting,dbmarket,dbregionmarketavg),12*vendorsell)
