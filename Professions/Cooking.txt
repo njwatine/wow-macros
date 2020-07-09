@@ -4,3 +4,15 @@
 
 #showtooltip
 /cast [mod:shift] Cooking Fire;Cooking
+
+
+# ----------------------------------
+# |            Alt Fire            |
+# ----------------------------------
+
+#showtooltip [nomod] Cooking; [mod:shift] Lil' Ragnaros
+#showtooltip [nomod] Cooking; [mod:shift] Summon Random Favorite Pet
+#showtooltip Call Pet
+
+#showtooltip
+/summonpet Lil' Ragnaros
