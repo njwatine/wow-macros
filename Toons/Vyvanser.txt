@@ -2,8 +2,8 @@
 # |            Fall/Heart            |
 # ------------------------------------
 
-#showtooltip [nomod] Mount Up; [mod:shift] 15; [mod:ctrl] Reaping Flames; [mod:alt] Fetch;
-/cast [mod:shift] 15; [mod:ctrl] Reaping Flames; [mod:alt] Fetch;
+#showtooltip [nomod] Mount Up; [mod:shift] 15; [mod:cmd] Reaping Flames; [mod:ctrl] Fetch;
+/cast [mod:shift] 15; [mod:cmd] Reaping Flames; [mod:ctrl] Fetch;
 /run if SecureCmdOptionParse"[nomod]"then C_MountJournal.SummonByID(0)end
 
 
