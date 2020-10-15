@@ -52,3 +52,19 @@
 /equipset [mod:shift] Dungeon; Speed
 
 
+
+# ---------------------------------------
+# |            Base Rotation            |
+# ---------------------------------------
+
+#showtooltip
+/cast [mod:cmd] Multi-Shot; [mod:shift] Cobra Shot; Kill Shot
+
+
+
+# -----------------------------------------------
+# |            Base Rotation flipped            |
+# -----------------------------------------------
+
+#showtooltip
+/cast [mod:cmd] Multi-Shot; [mod:shift] Kill Shot; Cobra Shot
