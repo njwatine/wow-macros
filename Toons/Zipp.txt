@@ -2,6 +2,15 @@
 # |            Golem / Stealth / Favorite Mount            |
 # ----------------------------------------------------------
 
-#showtooltip [nomod] Sky Golem; [mod:shift] Stealth; [mod:ctrl] Mount Up
-/cast [mod:shift] Stealth; [nomod] Sky Golem;
+#showtooltip [nomod] Sky Golem; [mod:shift] Stealth; [mod:cmd] Marked for Death; [mod:ctrl] Mount Up
+/cast [mod:shift] Stealth; [mod:cmd] Marked for Death; [nomod] Sky Golem;
 /run if SecureCmdOptionParse"[mod:ctrl]"then C_MountJournal.SummonByID(0)end
+
+
+
+# ------------------------------
+# |            Heal            |
+# ------------------------------
+
+#showtooltip
+/cast [mod:shift] Crimson Vial; /use item:137222

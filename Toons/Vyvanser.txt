@@ -68,3 +68,9 @@
 
 #showtooltip
 /cast [mod:cmd] Multi-Shot; [mod:shift] Kill Shot; Cobra Shot
+
+
+
+
+#showtooltip
+/cast [mod:shift] Feast; Mend Pet
