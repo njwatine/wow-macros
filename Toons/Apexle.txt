@@ -1,0 +1,11 @@
+#showtooltip
+/cast [mod:shift] Execute; Bloodthirst
+
+#showtooltip
+/cast [mod:shift] Taunt; Charge
+
+#showtooltip
+/cast [mod:shift] Pummel; Rampage
+
+#showtooltip
+/cast [mod:shift] Impending Victory; Raging Blow
