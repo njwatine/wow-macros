@@ -72,11 +72,11 @@
 
 
 
-# ---------------------------------------------
-# |            Order Hall/Garrison            |
-# ---------------------------------------------
+# -------------------------------------------------------
+# |            BFA Table/Garrison/Order Hall            |
+# -------------------------------------------------------
 
-/run if SecureCmdOptionParse"[mod:shift]"then ShowGarrisonLandingPage(2) else ShowGarrisonLandingPage(3)end
+/run if SecureCmdOptionParse"[mod:shift]"then ShowGarrisonLandingPage(2) elseif SecureCmdOptionParse"[mod:cmd]"then ShowGarrisonLandingPage(3)else ShowGarrisonLandingPage(9)end
 
 
 

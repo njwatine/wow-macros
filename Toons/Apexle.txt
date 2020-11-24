@@ -8,4 +8,7 @@
 /cast [mod:shift] Pummel; Rampage
 
 #showtooltip
-/cast [mod:shift] Impending Victory; Raging Blow
+/cast [mod:shift] Victory Rush; Raging Blow
+
+#showtooltip
+/cast [mod:cmd] Heroic Leap; [mod:shift] Taunt; Charge
