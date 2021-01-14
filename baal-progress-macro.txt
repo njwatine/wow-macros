@@ -1,0 +1,22 @@
+/run local N,t={"SCROLL","1","2","3","4","5"},{52819,52809,52810,52818,52817,52816}for s,k in pairs(N)do d=C_QuestLog.IsQuestFlaggedCompleted(t[s])print(k,"=",d and "Y" or "N")end
+
+
+/run local N,t={"6","7","8","9","10","11","12","FIN"},{52815,52814,52813,52812,53632,53633,53634,52827}for s,k in pairs(N)do d=C_QuestLog.IsQuestFlaggedCompleted(t[s])print(k,"=",d and "Y" or "N")end
+
+
+# ----------------------------------
+# |            Progress            |
+# ----------------------------------
+
+✅ 1
+✅ 2
+✅ 3
+4
+5
+6
+7
+8
+9
+10
+11
+12

@@ -81,3 +81,15 @@
 
 #showtooltip
 /cast [mod:shift] Fetch; Dire Beast: Hawk
+
+
+
+# --------------------------------------
+# |            Heal/Silence            |
+# --------------------------------------
+
+#showtooltip
+/cast [mod:cmd] Spider Sting; [mod:shift] Exhilaration; Counter Shot
+
+
+
