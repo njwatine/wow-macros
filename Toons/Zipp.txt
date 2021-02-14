@@ -12,8 +12,9 @@
 # |            Heal            |
 # ------------------------------
 
-#showtooltip
-/cast [mod:shift] Crimson Vial; /use item:137222
+#showtooltip Crimson Vial
+/cast Crimson Vial; 
+/use item:137222
 
 
 
@@ -23,3 +24,23 @@
 
 #showtooltip [nomod] Mechanized Lumber Extractor; [mod:shift] Stealth; [mod:cmd] Marked for Death; [mod:ctrl] Darkwater Skate
 /cast [mod:shift] Stealth; [mod:cmd] Marked for Death; [nomod] Mechanized Lumber Extractor; [mod:ctrl] Darkwater Skate
+
+
+
+# -------------------------------------------------------------
+# |            Roll the Bones / Concentrated Flame            |
+# -------------------------------------------------------------
+
+#showtooltip
+/cast [mod:shift] Concentrated Flame(Azerite Essence); Roll the Bones
+
+
+
+# ---------------------------------------------------
+# |            Stealth Pickpocket/Sprint            |
+# ---------------------------------------------------
+
+#showtooltip
+/cast [mod:shift] Sprint; Pick Pocket
+
+

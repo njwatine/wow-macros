@@ -93,3 +93,9 @@
 
 
 
+# -----------------------------------
+# |            Crow/Hawk            |
+# -----------------------------------
+
+#showtooltip
+/cast [mod:shift] Dire Beast: Hawk(PvP Talent);A Murder of Crows
