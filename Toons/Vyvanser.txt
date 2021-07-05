@@ -8,6 +8,18 @@
 
 
 
+
+# ------------------------------------
+# |            Maldraxxus            |
+# ------------------------------------
+
+#showtooltip [nomod] Mount Up; [mod:shift] 15; [mod:cmd] Death Chakram;
+/cast [mod:shift] 15; [mod:cmd] Death Chakram;
+/run if SecureCmdOptionParse"[nomod]"then C_MountJournal.SummonByID(0)end
+
+
+
+
 # -----------------------------------
 # |            Kill/Belt            |
 # -----------------------------------

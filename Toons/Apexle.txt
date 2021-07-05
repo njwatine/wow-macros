@@ -11,4 +11,4 @@
 /cast [mod:shift] Victory Rush; Raging Blow
 
 #showtooltip
-/cast [mod:cmd] Heroic Leap; [mod:shift] Taunt; Charge
+/cast [mod:alt] Heroic Leap; [mod:shift] Taunt; Charge
