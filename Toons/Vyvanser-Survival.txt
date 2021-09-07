@@ -1,0 +1,8 @@
+# -------------------------------------
+# |            Heal/Muzzle            |
+# -------------------------------------
+
+#showtooltip
+/cast [mod:cmd] Tranquilizing Shot; [mod:shift] Exhilaration; Muzzle
+
+

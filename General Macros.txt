@@ -88,7 +88,7 @@
 
 
 # --------------------------------------------
-# |            Heart of A / Mount            |
+# |        Concentrated Flame / Mount        |
 # --------------------------------------------
 
 #showtooltip [nomod] Mount Up; [mod:shift] Concentrated Flame;
@@ -96,8 +96,20 @@
 /run if SecureCmdOptionParse"[nomod]"then C_MountJournal.SummonByID(0)end
 
 
+# --------------------------------------------
+# |       Moment of Glory / Mount            |
+# --------------------------------------------
 
-# ---------------------------------------
-# |            Fly/Trap/Wolf            |
-# ---------------------------------------
+#showtooltip [nomod] Mount Up; [mod:shift] Moment of Glory;
+/cast [mod:shift] Moment of Glory;
+/run if SecureCmdOptionParse"[nomod]"then C_MountJournal.SummonByID(0)end
+
+
+# -----------------------------------------------------
+# |            Lumber Extractor / Favorite            |
+# -----------------------------------------------------
+
+#showtooltip [nomod] Mechanized Lumber Extractor; [mod:shift] Apprentice Riding;
+/cast [nomod] Mechanized Lumber Extractor;
+/run if SecureCmdOptionParse"[mod:shift]"then C_MountJournal.SummonByID(0)end
 
