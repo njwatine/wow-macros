@@ -6,3 +6,11 @@
 /cast [mod:cmd] Tranquilizing Shot; [mod:shift] Exhilaration; Muzzle
 
 
+#showtooltip
+/cast [mod:shift] Harpoon; Kill Command
+
+#showtooltip
+/cast [mod:alt] Aspect of the Cheetah; [mod:shift] Harpoon; Kill Command
+
+#showtooltip
+/cast [mod:shift] Muzzle; Disengage
