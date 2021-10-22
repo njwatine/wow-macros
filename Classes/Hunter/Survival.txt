@@ -6,3 +6,9 @@
 
 #showtooltip
 /cast [mod:shift] Muzzle; Disengage
+
+#showtooltip
+/cast [mod:shift] Wildfire Bomb; Serpent Sting
+
+#showtooltip
+/cast [mod:cmd] Carve; Raptor Strike
