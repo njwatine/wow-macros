@@ -1,0 +1,5 @@
+#showtooltip
+/cast [mod:shift] Multi-Shot; Auto Shot
+
+#showtooltip [mod:shift] Multi-Shot; Short Ash Bow
+/cast [mod:shift] Multi-Shot; Auto Shot

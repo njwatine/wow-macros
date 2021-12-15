@@ -1,0 +1,9 @@
+#showtooltip
+/cast [mod:cmd] Blizzard; [mod:shift] Cone of Cold; Frostbolt
+
+#showtooltip
+/cast [mod:shift] Frozen Orb; Ring of Frost
+
+
+#showtooltip
+/cast [mod:shift] Blink; Ice Floes
