@@ -6,7 +6,7 @@
 /cast [mod:shift] 
 
 #showtooltip
-/cast [mod:ctrl] X; [mod:shift] X; X
+/cast [mod:cmd] X; [mod:shift] X; X
 
 # ------------------------------
 # |            Hats            |

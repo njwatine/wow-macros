@@ -1,5 +1,29 @@
 #showtooltip
 /cast [mod:shift] Multi-Shot; Auto Shot
 
-#showtooltip [mod:shift] Multi-Shot; Short Ash Bow
+#showtooltip [mod:shift] Multi-Shot; Double-barreled Shotgun
 /cast [mod:shift] Multi-Shot; Auto Shot
+
+
+
+#showtooltip
+/cast [mod:shift] Wing Clip; Concussive Shot
+
+
+#showtooltip
+/cast [mod:shift] Disengage; Arcane Shot
+
+Aspect
+#showtooltip
+/cast [mod:shift] Aspect of the Monkey;Hunter's Mark(Rank 2)
+
+#showtooltip
+/cast [mod:cmd] Aspect of the Hawk; [mod:alt] Aspect of the Cheetah; [mod:shift] Aspect of the Monkey;Hunter's Mark(Rank 2)
+
+
+#showtooltip
+/cast [mod:shift] Mongoose Bite; Intimidation
+
+
+#showtooltip
+/cast [mod:cmd] Freezing Trap; [mod:shift] Explosive Trap;Immolation Trap
