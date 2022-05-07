@@ -1,0 +1,8 @@
+# -----------------------------------------
+# |            Mount/Soulshape            |
+# -----------------------------------------
+
+
+#showtooltip [nomod] Mount Up; [mod:shift] Soulshape;
+/cast [mod:shift] Soulshape;
+/run if SecureCmdOptionParse"[nomod]"then C_MountJournal.SummonByID(0)end

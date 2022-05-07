@@ -27,3 +27,6 @@ Aspect
 
 #showtooltip
 /cast [mod:cmd] Freezing Trap; [mod:shift] Explosive Trap;Immolation Trap
+
+#showtooltip
+/cast [mod:shift] Bestial Wrath; Serpent Sting

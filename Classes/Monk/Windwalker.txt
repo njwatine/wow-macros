@@ -1,10 +1,9 @@
-# ----------------------------------------
-# |            Touch of Death            |
-# ----------------------------------------
+#showtooltip
+/cast [mod:cmd] Fist of the White Tiger; [mod:shift] Faeline Stomp; Tiger Palm
+
 
 #showtooltip
-/cast [mod:ctrl] Touch of Death; [mod:shift] Fist of the White Tiger; Tiger Palm
-
+/cast [mod:cmd] Faeline Stomp; [mod:shift] Fist of the White Tiger; Tiger Palm
 
 # ------------------------------
 # |            Free            |
@@ -20,3 +19,17 @@
 
 #showtooltip
 /cast [mod:ctrl] Vivify; [mod:shift] Touch of Karma; Storm, Earth, and Fire
+
+
+#showtooltip
+/cast [mod:cmd] Chi Burst; [mod:shift] Rising Sun Kick; Blackout Kick
+
+#showtooltip
+/cast [mod:cmd] Chi Burst; [mod:shift] Rising Sun Kick; Blackout Kick
+
+#showtooltip
+/cast [mod:cmd] Rushing Jade Wind; [mod:shift] Spear Hand Strike; Fists of Fury
+
+
+#showtooltip
+/cast [mod:cmd] Spinning Crane Kick; [mod:shift] Spear Hand Strike; Fists of Fury
