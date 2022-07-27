@@ -3,7 +3,7 @@
 # -------------------------------------------
 
 #showtooltip
-/cast [mod:shift] 
+/cast [mod:shift] X; 
 
 #showtooltip
 /cast [mod:cmd] X; [mod:shift] X; X
