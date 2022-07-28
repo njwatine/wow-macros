@@ -8,6 +8,14 @@
 
 
 
+# --------------------------------------------------------------------
+# |            Cloak/Soulshape-Flicker/Wild Spirits/Mount            |
+# --------------------------------------------------------------------
+
+#showtooltip [nomod] Mount Up; [mod:shift] 15; [mod:alt] Soulshape; [mod:cmd] Wild Spirits;
+/cast [mod:shift] 15; [mod:alt] Soulshape; [mod:cmd] Wild Spirits;
+/run if SecureCmdOptionParse"[nomod]"then C_MountJournal.SummonByID(0)end
+
 
 # ------------------------------------
 # |            Fall/Heart            |
