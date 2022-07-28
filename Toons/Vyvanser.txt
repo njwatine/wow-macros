@@ -1,6 +1,6 @@
-# ------------------------------------------------------
-# |            Cloak/Resonating Arrow/Mount            |
-# ------------------------------------------------------
+# ---------------------------------------------------------------------
+# |            Cloak/Resonating Arrow/Reaping Flames/Mount            |
+# ---------------------------------------------------------------------
 
 #showtooltip [nomod] Mount Up; [mod:shift] 15; [mod:alt] Resonating Arrow; [mod:cmd] Reaping Flames;
 /cast [mod:shift] 15; [mod:alt] Resonating Arrow; [mod:cmd] Reaping Flames;
