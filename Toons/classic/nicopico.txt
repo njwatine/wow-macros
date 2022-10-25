@@ -18,7 +18,7 @@ Aspect
 /cast [mod:shift] Aspect of the Monkey;Hunter's Mark(Rank 2)
 
 #showtooltip
-/cast [mod:cmd] Aspect of the Hawk; [mod:alt] Aspect of the Cheetah; [mod:shift] Aspect of the Monkey;Hunter's Mark(Rank 2)
+/cast [mod:cmd] Aspect of the Hawk; [mod:alt] Aspect of the Cheetah; [mod:shift] Aspect of the Monkey; [mod:ctrl] Aspect of the Viper;Hunter's Mark
 
 
 #showtooltip
