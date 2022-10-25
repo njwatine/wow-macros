@@ -1,0 +1,22 @@
+# --------------------------------------------------------
+# |            Consecration / Crusader Strike            |
+# --------------------------------------------------------
+
+#showtooltip
+/cast [mod:shift] Consecration; Crusader Strike
+
+
+
+#showtooltip
+/cast [mod:cmd] Divine Storm; [mod:shift] Consecration; Crusader Strike
+
+
+
+
+#showtooltip
+/cast [mod:cmd] Flash of Light; [mod:shift] Word of Glory; Avenger's Shield
+
+
+
+#showtooltip
+/cast [mod:shift] Judgment; Shield of the Righteous

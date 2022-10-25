@@ -3,7 +3,8 @@
 # ------------------------------
 
 #showtooltip
-/cast [mod:shift] Consecration;Hammer of the Righteous
+/cast [mod:cmd] Divine Toll; [mod:shift] Consecration; Hammer of the Righteous
+
 
 
 # ------------------------------
@@ -16,6 +17,9 @@
 ALT
 
 #showtooltip
+/cast [mod:shift] Word of Glory; Avenger's Shield
+
+#showtooltip
 /cast [mod:shift] Flash of Light;Avenger's Shield
 
 # -------------------------------
@@ -23,7 +27,8 @@ ALT
 # -------------------------------
 
 #showtooltip
-/cast [mod:shift] Judgment;Shield of the Righteous
+/cast [mod:cmd] Hammer of Wrath; [mod:shift] Judgment; Shield of the Righteous
+
 
 
 
