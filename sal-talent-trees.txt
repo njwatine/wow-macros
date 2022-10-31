@@ -1,0 +1,19 @@
+# --------------------------------------------
+# |            Wowhead Build Link            |
+# --------------------------------------------
+https://www.wowhead.com/beta/talent-calc/monk/windwalker/DANRUESYFEZBQCgIBUPUUIVVFUUUAIABAFBA
+
+
+
+# --------------------------------------------
+# |            Game Import String            |
+# --------------------------------------------
+B0QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASiESSUiIJJAAAAgAAIJSCgWIikIJRIhWSIAAA
+
+
+
+
+
+
+
+B0QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAERIJJFJJRAAAAAAAIJJJBkWgkkIRISolECAAA
