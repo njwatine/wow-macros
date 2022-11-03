@@ -146,3 +146,5 @@
 #showtooltip
 /cast [mod:cmd] Aspect of the Wild; [mod:shift] Bestial Wrath;Barbed Shot
 
+#showtooltip
+/cast [mod:cmd] Disengage; [mod:shift] Barrage; Death Chakram

@@ -8,12 +8,12 @@ https://www.wowhead.com/beta/talent-calc/monk/windwalker/DANRUESYFEZBQCgIBUPUUIV
 # --------------------------------------------
 # |            Game Import String            |
 # --------------------------------------------
-B0QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASiESSUiIJJAAAAgAAIJSCgWIikIJRIhWSIAAA
+
+Solo PVE (Focus on Healing & Skills I Know)
+B0QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASChkkUkkEJAAAAAAASCJBoFikkIRESolECAAA
 
 
 
 
-
-
-
-B0QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAERIJJFJJRAAAAAAAIJJJBkWgkkIRISolECAAA
+Farming (Focus on Speed & AoE)
+B0QAdeydY63Y4XKaboK13uRRQAAAAAAAASiESSUiIJJAAAAgAAIJSCgWIikIJRIhWSIAAA
