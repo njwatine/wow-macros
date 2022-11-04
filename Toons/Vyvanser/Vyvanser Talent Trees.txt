@@ -1,12 +1,15 @@
 Farming (Focus on Speed & AoE)
 B0PAAAAAAAAAAAAAAAAAAAAAAQgWCACAAAAAAAAAAAgwBIaaJkIBiQaCpkYBJEJRgQE
-
+https://www.wowhead.com/talent-calc/hunter/beast-mastery/DANEomFAYBQGCAgFCVQIVUqoFRiUBA
 
 Wow Leveling
 B0PAAAAAAAAAAAAAAAAAAAAAAAolAAEAAAAAAAAAAAAIolIJSCJH4ARaCpkIJESEaIRA
+https://www.wowhead.com/talent-calc/hunter/beast-mastery/DANBpmFAUBESKEAEBVMVUmoBBiUIAAQBE
 
-Custom PVE
+Custom PVE (Death Chakram Focus)
 B0PAIlFMjeNhnEouGfV8Ij2uSBolAAEAAAAAAAAAAAAHggWikIJIHIkmQKJSCRSEaIE
+https://www.wowhead.com/talent-calc/hunter/beast-mastery/DANBomFAYBQSKEAEBVMVUmoFBiQIAAQBE
 
-Custom PVE 2
+Custom PVE 2 (Kill Command Focus)
 B0PAIlFMjeNhnEouGfV8Ij2uSBolAAEAAAAAAAAAAAawBIHAJSIJIJkmQKJSCRSEaIE
+https://www.wowhead.com/talent-calc/hunter/beast-mastery/DAMBomFAYBQSIYBBVMVUmoFBiQIAAQBE
