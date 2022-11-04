@@ -9,8 +9,8 @@ https://www.wowhead.com/beta/talent-calc/monk/windwalker/DANRUESYFEZBQCgIBUPUUIV
 # |            Game Import String            |
 # --------------------------------------------
 
-Solo PVE (Focus on Healing & Skills I Know)
-B0QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASChkkUkkEJAAAAAAASCJBoFikkIRESolECAAA
+Solo PVE (Focus on Healing & Skills I Know + Strike of Windlord)
+B0QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASQIJJFJJRAAAAAAAIJJJBoFikkIRESolECAAA
 
 
 
