@@ -1,19 +1,15 @@
 # --------------------------------------------
-# |            Wowhead Build Link            |
-# --------------------------------------------
-https://www.wowhead.com/beta/talent-calc/monk/windwalker/DANRUESYFEZBQCgIBUPUUIVVFUUUAIABAFBA
-
-
-
-# --------------------------------------------
 # |            Game Import String            |
 # --------------------------------------------
 
 Solo PVE (Focus on Healing & Skills I Know + Strike of Windlord)
+https://www.wowhead.com/talent-calc/monk/windwalker/DANRUGSYFEZBQCAIBUPUSJVRVBQFAIABAFBA
 B0QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASQIJJFJJRAAAAAAAIJJJBoFikkIRESolECAAA
 
 
 
 
+
 Farming (Focus on Speed & AoE)
+https://www.wowhead.com/talent-calc/monk/windwalker/DANRUESYFEZBQCgIBUPUUIVVFUUUAIABAFBA
 B0QAdeydY63Y4XKaboK13uRRQAAAAAAAASiESSUiIJJAAAAgAAIJSCgWIikIJRIhWSIAAA

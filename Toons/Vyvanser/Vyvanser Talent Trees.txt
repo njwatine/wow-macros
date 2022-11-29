@@ -6,10 +6,18 @@ Wow Leveling
 B0PAAAAAAAAAAAAAAAAAAAAAAAolAAEAAAAAAAAAAAAIolIJSCJH4ARaCpkIJESEaIRA
 https://www.wowhead.com/talent-calc/hunter/beast-mastery/DANBpmFAUBESKEAEBVMVUmoBBiUIAAQBE
 
-Custom PVE (Death Chakram Focus)
-B0PAIlFMjeNhnEouGfV8Ij2uSBolAAEAAAAAAAAAAAAHggWikIJIHIkmQKJSCRSEaIE
-https://www.wowhead.com/talent-calc/hunter/beast-mastery/DANBomFAYBQSKEAEBVMVUmoFBiQIAAQBE
+Death Chakram Build (Death Chakram / All Attack & Heal / No Speed)
+B0PAAAAAAAAAAAAAAAAAAAAAAAolAgQAAAAAAAAAAAARKyBoFSikQQkmQKJSCRSEaIE
+https://www.wowhead.com/talent-calc/hunter/beast-mastery/DANBJmFQQFkUKQAECRQMVUmoFBiQIAAQBE
 
-Custom PVE 2 (Kill Command Focus)
-B0PAIlFMjeNhnEouGfV8Ij2uSBolAAEAAAAAAAAAAAawBIHAJSIJIJkmQKJSCRSEaIE
-https://www.wowhead.com/talent-calc/hunter/beast-mastery/DAMBomFAYBQSIYBBVMVUmoFBiQIAAQBE
+Kill Command Build (Kill Command / All Attack & Heal / No Speed)
+B0PAAAAAAAAAAAAAAAAAAAAAAAolAgQAAAAAAAAAAAoRkicAESIJERkmQKJSCRSEaIE
+https://www.wowhead.com/talent-calc/hunter/beast-mastery/DAMBJmFQQFkUIYBCRQMVUmoFBiQIAAQBE
+
+
+Kill Command + Dire Beast
+B0PAAAAAAAAAAAAAAAAAAAAAAAolEACBAAAAAAAAAAgGRKyBQIhkQERaCRikwBSSEAE
+https://www.wowhead.com/talent-calc/hunter/beast-mastery/DAMBJmFQQFkUIYBCRQKVUmoEBSQwIA
+
+
+Kill Command + Piercing Fangs
