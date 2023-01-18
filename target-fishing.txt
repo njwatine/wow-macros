@@ -1,0 +1,2 @@
+/console SoftTargetInteractArc 2
+/console SoftTargetInteractRange 30
