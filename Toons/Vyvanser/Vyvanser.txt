@@ -155,8 +155,5 @@
 /cast [mod:shift] Death Chakram; Disengage 
 
 
-
-
 #showtooltip
-/cast [mod:shift] Sharpened Fish Hook; Underlight Angler
- 
+/cast [mod:cmd] Reusable Oversized Bobber; [mod:shift] Sharpened Fish Hook; Underlight Angler
