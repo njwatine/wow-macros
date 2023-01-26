@@ -148,3 +148,15 @@
 
 #showtooltip
 /cast [mod:cmd] Disengage; [mod:shift] Barrage; Death Chakram
+
+
+
+#showtooltip
+/cast [mod:shift] Death Chakram; Disengage 
+
+
+
+
+#showtooltip
+/cast [mod:shift] Sharpened Fish Hook; Underlight Angler
+ 
