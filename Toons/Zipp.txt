@@ -6,6 +6,13 @@
 /cast [mod:shift] Stealth; [mod:cmd] Marked for Death; [nomod] Mechanized Lumber Extractor;
 /run if SecureCmdOptionParse"[mod:ctrl]"then C_MountJournal.SummonByID(0)end
 
+#showtooltip [nomod] Mechanized Lumber Extractor; [mod:shift] Stealth; [mod:cmd] Roll the Bones; [mod:alt] Marked for Death;
+/cast [mod:shift] Stealth; [mod:cmd] Roll the Bones; [mod:alt] Marked for Death; [nomod] Mechanized Lumber Extractor;
+
+
+#showtooltip [nomod] Windborne Velocidrake; [mod:shift] Stealth; [mod:cmd] Roll the Bones; [mod:alt] Marked for Death;
+/cast [mod:shift] Stealth; [mod:cmd] Roll the Bones; [mod:alt] Marked for Death; [nomod] Windborne Velocidrake;
+
 
 
 # ------------------------------
@@ -42,5 +49,30 @@
 
 #showtooltip
 /cast [mod:shift] Sprint; Pick Pocket
+
+
+# ----------------------------------------
+# |            Strikes/Pistol            |
+# ----------------------------------------
+
+#showtooltip
+/cast [mod:cmd] Ambush; [mod:shift] Pistol Shot; Sinister Strike
+
+
+
+
+
+#showtooltip
+/cast [mod:cmd] Shiv; [mod:shift] Blade Rush; Blade Flurry
+
+#showtooltip
+/cast [mod:cmd] Shiv; [mod:shift] Crimson Vial; Kick
+
+
+#showtooltip
+/cast [mod:cmd] Kidney Shot; [mod:shift] Sprint; Grappling Hook
+
+#showtooltip
+/cast [mod:cmd] Between the Eyes; [mod:shift] Blade Rush; Blade Flurry
 
 

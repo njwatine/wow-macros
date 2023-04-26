@@ -1,14 +1,27 @@
 #showtooltip
 /cast [mod:shift] Execute; Bloodthirst
 
-#showtooltip
-/cast [mod:shift] Taunt; Charge
-
-#showtooltip
-/cast [mod:shift] Pummel; Rampage
 
 #showtooltip
 /cast [mod:shift] Victory Rush; Raging Blow
 
 #showtooltip
 /cast [mod:alt] Heroic Leap; [mod:shift] Taunt; Charge
+
+
+
+#showtooltip
+/cast [mod:cmd] Storm Bolt; [mod:shift] Impending Victory; Raging Blow
+
+#showtooltip
+/cast [mod:shift] Whirlwind; Rampage
+
+
+
+#showtooltip
+/cast [mod:cmd] Enraged Regeneration; [mod:shift] Bitter Immunity; Pummel
+
+
+
+#showtooltip
+/cast [mod:cmd] Slam; [mod:shift] Whirlwind; Rampage

@@ -114,7 +114,6 @@
 /run if SecureCmdOptionParse"[mod:shift]"then C_MountJournal.SummonByID(0)end
 
 
-
 # -----------------------------------------
 # |            Teleport Cloaks            |
 # -----------------------------------------
@@ -122,4 +121,16 @@
 #showtooltip
 /equip [mod:cmd] Shroud of Cooperation; [mod:shift] Wrap of Unity; Cloak of Coordination;
 /use [mod:cmd] Shroud of Cooperation; [mod:shift] Wrap of Unity; Cloak of Coordination
+
+
+
+# --------------------------------------------------------------------------
+# |            Lumber Extractor / Favorite / Concentrated Flame            |
+# --------------------------------------------------------------------------
+
+#showtooltip [nomod] Mechanized Lumber Extractor; [mod:shift] Mount Up; [mod:cmd] Concentrated Flame
+/cast [mod:cmd] Concentrated Flame; [nomod] Mechanized Lumber Extractor;
+/run if SecureCmdOptionParse"[mod:shift]"then C_MountJournal.SummonByID(0)end
+
+
 

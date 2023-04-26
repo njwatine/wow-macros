@@ -1,0 +1,33 @@
+# ---------------------------------------
+# |            Golem/Stealth            |
+# ---------------------------------------
+
+#showtooltip [nomod] Mount Up; [mod:shift] Stealth; [mod:cmd] Running Wild
+/cast [mod:shift] Stealth; [mod:cmd] Running Wild
+/run if SecureCmdOptionParse"[nomod]"then C_MountJournal.SummonByID(0)end
+
+
+
+#showtooltip
+/cast [mod:cmd] Blade Flurry; [mod:shift] Pistol Shot; Sinister Strike
+
+
+
+
+#showtooltip
+/cast [mod:cmd] Feint; [mod:shift] Between the Eyes; Eviscerate
+
+
+
+#showtooltip
+/cast [mod:cmd] Kidney Shot; [mod:shift] Gouge; Kick
+
+
+
+#showtooltip
+/cast [mod:shift] Shiv; Crimson Vial
+
+
+
+#showtooltip
+/cast [mod:cmd] Darkflight; [mod:shift] Sprint; Pick Pocket
