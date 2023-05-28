@@ -13,10 +13,20 @@
 
 
 
+
+# ------------------------------------
+# |            Protection            |
+# ------------------------------------
+
+
 #showtooltip
 /cast [mod:cmd] Flash of Light; [mod:shift] Word of Glory; Avenger's Shield
 
 
 
 #showtooltip
-/cast [mod:shift] Judgment; Shield of the Righteous
+/cast [mod:cmd] Divine Toll; [mod:shift] Judgment; Shield of the Righteous
+
+
+#showtooltip
+/cast [mod:cmd] X; [mod:shift] X; X
