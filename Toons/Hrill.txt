@@ -22,6 +22,11 @@
 #showtooltip
 /cast [mod:cmd] Flash of Light; [mod:shift] Word of Glory; Avenger's Shield
 
+#showtooltip
+/cast [mod:shift] Consecration;[mod:cmd] Hammer of Wrath; Hammer of the Righteous
+
+#showtooltip
+/cast [mod:shift] Consecration;[mod:cmd] Hammer of Wrath; Blessed Hammer
 
 
 #showtooltip
@@ -30,3 +35,29 @@
 
 #showtooltip
 /cast [mod:cmd] X; [mod:shift] X; X
+
+
+
+
+
+# -----------------------------------
+# |            PVE Build            |
+# -----------------------------------
+
+BIEAS+uMNo6HaxL/ztTZBhrdcWiWioEaSLSSp0kkDIJgEAAgAAAAAAAAgkDkkQSQApBhAAiAJAAC
+
+
+
+
+
+# ----------------------------------------
+# |            So Fast! Build            |
+# ----------------------------------------
+
+BIEAS+uMNo6HaxL/ztTZBhrdcWiWiogm0ikUKNJxBSCIBAAIAAAAAAAAIRSCJBBxBgWSCAICkAIAA
+
+
+
+
+
+
